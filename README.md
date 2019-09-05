@@ -2,8 +2,8 @@
 In this project you will be using the concepts learned in the Git for Web Development lesson to fork/clone/push/and submit a PR for each project during this sprint.
 */change for practice*/
 This project consists of two parts:
-
-Norma Bunton
+add name tp README.md file
+Norma-Bunton 
 
 ## Part One:
 You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
